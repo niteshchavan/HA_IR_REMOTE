@@ -1,0 +1,9 @@
+[[protocols]]
+name = "HUAYU"
+protocol = "sony"
+#variant = "rc6_mce"
+[protocols.scancodes]
+0x970025   = "KEY_RED"
+0x970026   = "KEY_GREEN"
+0x970027   = "KEY_YELLOW"
+0x970024   = "KEY_BLUE"
