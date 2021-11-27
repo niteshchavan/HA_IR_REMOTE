@@ -15,11 +15,14 @@ curl -X POST -H "Authorization: Bearer ABCDEFGH" \
   -d '{"entity_id": "switch.christmas_lights"}' \
   http://localhost:8123/api/services/switch/toggle
 ```
+
 # Install and setup IR reciver using below source
 https://github.com/niteshchavan/IR-Controller
 
 #After installing copy key.conf in
+```
 /etc/triggerhappy/triggers.d/key.conf
+```
 
 # Restart triggerhappy daemon
 ```
