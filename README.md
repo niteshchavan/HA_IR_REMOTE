@@ -2,9 +2,9 @@
 Control Home assistant lights with any IR remote 
 
 # Source
-```
+
 https://developers.home-assistant.io/docs/api/rest/
-```
+
 
 # Edit Home assistant configuration.yaml and add api:
 nano .homeassistant/configuration.yaml
