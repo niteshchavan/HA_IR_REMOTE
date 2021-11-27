@@ -1,4 +1,4 @@
-# HA_IR_REMOTE
+# Home Assistant IR Remote Control
 Control Home assistant lights with any IR remote 
 
 # Edit Home assistant configuration.yaml and add api:
