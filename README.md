@@ -24,5 +24,4 @@ https://github.com/niteshchavan/IR-Controller
 # Restart triggerhappy daemon
 ```
 systemctl daemon-reload && systemctl restart triggerhappy.service
-
 ```
